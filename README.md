@@ -20,6 +20,9 @@ but it will run as war in web server (not using embadded tomcat)
 [root]/spring-boot-helloworld> git push -u origin master
 
 
+git checkout . to reset to origin discarding all changes.
+
+
 
 
 
